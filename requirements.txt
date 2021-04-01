@@ -94,6 +94,7 @@ terminado==0.9.4
 testpath==0.4.4
 tf-slim==1.1.0
 tornado==6.1
+tqdm
 traitlets==5.0.5
 typeguard==2.11.1
 typing-extensions==3.7.4.3
