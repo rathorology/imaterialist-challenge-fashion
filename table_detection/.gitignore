@@ -1,0 +1,6 @@
+.idea/
+table_detection/.ipynb_checkpoints/
+models/
+object_detection/
+official/
+../venv/
